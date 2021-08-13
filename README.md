@@ -78,4 +78,6 @@ This DataFrame was used to create 2 new DataFrames to sort our data.  One DataFr
 
 ## Summary
 
-We can deterrmine from our data that there is not a positivity bias for reviews in the Vine program.  Over 99.5% of 5 star reviews in the sports category were from non-Vine members.  We beleive that Vine members have a tendency to be more critical in the reviews of products.  To get a better understanding of the data we can use the "verified_purchase" column to sort reviews based on purchase.  That would be able to tell us how many people that purchased the products gave favourable reviews vs non-purchasers.
+We can deterrmine from our data that there is not a positivity bias for reviews in the Vine program.  Over 99.5% of 5 star reviews in the sports category were from non-Vine members.  We beleive that Vine members have a tendency to be more critical in the reviews of products.  
+
+To get a better understanding of the data we can use the "verified_purchase" column to sort reviews based on purchase.  That would be able to tell us how many people that purchased the products gave favourable reviews vs non-purchasers.
